@@ -5,6 +5,6 @@ Syspull is a system information tool that only prints out system info without fa
 # Installation
 1. `git clone` this repository
 2. make sure you have Python
-3. `cd` into the folder where you cloned it
+3. navigate into the folder where you cloned it
 4. run `python3 main.py`
 
