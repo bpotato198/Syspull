@@ -5,7 +5,7 @@ cpuname = platform.machine()
 osver = platform.version()
 osname = platform.system()
 syspullver = "0.1"
-print(syspullver)
+print("Syspull version: ", syspullver)
 print("============")
 print("CPU threads: ", cpu)
 print("CPU Architecture: ", cpuname)
